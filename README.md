@@ -1,4 +1,4 @@
-![MasterHead](https://ibb.co/VQyM2WY)
+![MasterHead](https://i.postimg.cc/n99Z0xC8/danish-Landscape.png')
 # 💫 About Me:
 <h1 align="left">Hi 👋, I'm Syed Danish</h1>
 <h3 align="left">A passionate Data Scientist</h3>
