@@ -1,4 +1,4 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThrc3hqNWJ0YXpyMTZsYTVpcjZseGQ0NG03cmdncGFpOWhuODl1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
+![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBpdXoxNTd3cHY4Z3YweTl1eTBwYzJ6cG94dWZwbmsybTV3amo2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif)
 # 💫 About Me:
 <h1 align="left">Hi 👋, I'm Syed Danish</h1>
 <h3 align="left">A passionate Data Scientist</h3>
