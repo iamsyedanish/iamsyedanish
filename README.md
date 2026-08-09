@@ -61,12 +61,12 @@ Hi, I'm **Syed Danish** — a Software Engineer focused on **Flutter App Develop
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamsyedanish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsyedanish&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsyedanish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Hi, I'm **Syed Danish** — a Software Engineer focused on **Flutter App Develop
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsyedanish&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Hi, I'm **Syed Danish** — a Software Engineer focused on **Flutter App Develop
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamsyedanish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
 ---
