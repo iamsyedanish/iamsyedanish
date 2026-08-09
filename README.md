@@ -1,26 +1,114 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHcuftZ3F73JA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724842764679?e=1730332800&v=beta&t=g4-DbMxfJ2F9193P2dc245f4b4jk2irdBHnpdAkEF-I)
-# 💫 About Me:
-<h1 align="left">Hi 👋, I'm M. Danish</h1>
-<h3 align="left">A passionate Data Scientist</h3>
+# 👋 About Me
 
+Hi, I'm **Syed Danish** — a Software Engineer focused on **Flutter App Development, Full-Stack Development, Cybersecurity, AI, and secure software development**.
 
-- 🔭 I’m currently working on **Data Science, Deep Learning, Machine Learning, Flutter, Python**
-
-- 🌱 I’m currently learning **R, Computer Vision**
-
-- 💬 Ask me about **Data Science | Mobile App Development**
-
-- 📫 How to reach me **iamsyedanish@gmail.com**
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/syedanish39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/syedanish39/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsyedanish/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamsyedanish)
-
-# 💻 Tech Stack:
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-%23323330.svg?style=for-the-badge&logo=R&logoColor=%23F7DF1E) ![Matplpotlib](https://img.shields.io/badge/Matplpotlib-%23ED8B00.svg?style=for-the-badge&logo=Matplpotlib&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/scikit-learn-039BE5?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%23EE4C2C.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsyedanish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* 📱 Building cross-platform mobile applications with **Flutter & Dart**
+* 🌐 Developing modern **full-stack web applications and APIs**
+* 🔐 Exploring **Cybersecurity & Information Security**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🐍 Working with **Python** for development, automation, and AI
+* 🗄️ Experienced with **Supabase, PostgreSQL, SQL & backend integrations**
+* 🚀 I enjoy turning ideas into complete, production-ready applications
+* 🛡️ Interested in combining **Software Engineering with Cybersecurity**
+* 💬 Ask me about **Flutter, Mobile Development, Full-Stack Development, Cybersecurity, Python & AI**
+* 📫 Reach me at **[iamsyedanish@gmail.com](mailto:iamsyedanish@gmail.com)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamsyedanish&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+
+### 🌐 Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### ⚙️ Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🔐 Cybersecurity
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge\&logo=hackthebox\&logoColor=9FEF00)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+
+### 🤖 AI & Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+📱 Flutter & Cross-Platform App Development
+🔐 Cybersecurity & Information Security
+🌐 Full-Stack Software Development
+🤖 Artificial Intelligence & Machine Learning
+🐍 Python Development
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:iamsyedanish@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building secure, useful and scalable software — one project at a time.</i>
+</p>
