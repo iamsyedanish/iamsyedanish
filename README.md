@@ -79,14 +79,6 @@ Hi, I'm **Syed Danish** — a Software Engineer focused on **Flutter App Develop
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamsyedanish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 ```text
